@@ -17,7 +17,7 @@ plugins {
 }
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'test.App'
 defaultTasks 'run'
 
 dependencies {
